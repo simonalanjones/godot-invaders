@@ -2,7 +2,7 @@ Godot Invaders
 ==============
 Space Invaders written for Godot 3.1
 
-Godot Invaders is an accurate remake of the classic arcade game from 1979. Written in GD script for the Godot game engine. 
+Godot Invaders is an accurate remake of the classic arcade game from 1978. Written in GD script for the Godot game engine. 
 
 **Features**
 
