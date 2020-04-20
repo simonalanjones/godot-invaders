@@ -19,7 +19,7 @@ Godot Invaders is an accurate remake of the classic arcade game from 1978. Writt
 
 **Want to play the compiled game?**
 
-* Mac OSX version available https://simonajones.itch.io/godot-invaders
+* Free Mac OSX download available https://simonajones.itch.io/godot-invaders
 * Windows version coming soon!
 
 
