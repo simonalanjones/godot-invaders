@@ -24,6 +24,6 @@ Godot Invaders is an accurate remake of the classic arcade game from 1979. Writt
 
 
 
-**Feedback welcome**
+**Feedback welcome!**
 
 Open an issue if you have any suggestions/comments/feature requests
