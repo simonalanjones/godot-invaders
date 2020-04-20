@@ -8,8 +8,6 @@ void fragment(){
 	COLOR = texture(TEXTURE, UV);
 	float shader_y = UV.y * float(height) + float(world_y);	
 	
-	// top section
-	//if (float(shader_y) < float(cutoff))
 	if (float(shader_y) < 190.0)
 	{
 		if (COLOR.a != 0.0) 
