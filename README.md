@@ -7,6 +7,7 @@ Godot Invaders is an accurate remake of the classic arcade game from 1979. Writt
 * Uses pixel perfect sprites from the original game
 * Original sound effects
 * Imitation green tint on lower section of screen!
+* Attract mode
 * High score save system
 
 
