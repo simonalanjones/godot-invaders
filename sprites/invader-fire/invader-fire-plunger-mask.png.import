@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/invader-fire-plunger-mask.png-51fe27f052f5838cd9a7c5a775257c86.image"
+
+[deps]
+
+source_file="res://sprites/invader-fire/invader-fire-plunger-mask.png"
+dest_files=[ "res://.import/invader-fire-plunger-mask.png-51fe27f052f5838cd9a7c5a775257c86.image" ]
+
+[params]
+

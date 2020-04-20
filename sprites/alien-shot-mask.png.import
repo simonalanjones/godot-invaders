@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/alien-shot-mask.png-0cc93ea94727218b06179970b6be474e.image"
+
+[deps]
+
+source_file="res://sprites/alien-shot-mask.png"
+dest_files=[ "res://.import/alien-shot-mask.png-0cc93ea94727218b06179970b6be474e.image" ]
+
+[params]
+

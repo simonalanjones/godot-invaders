@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/invader-empty-frame.png-c4b20c82c917c092d6c7bc0c5855bd39.image"
+
+[deps]
+
+source_file="res://sprites/invader/invader-empty-frame.png"
+dest_files=[ "res://.import/invader-empty-frame.png-c4b20c82c917c092d6c7bc0c5855bd39.image" ]
+
+[params]
+

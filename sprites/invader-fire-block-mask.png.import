@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/invader-fire-block-mask.png-4449b04d176bb6c09a5c955e48336a1b.image"
+
+[deps]
+
+source_file="res://sprites/invader-fire-block-mask.png"
+dest_files=[ "res://.import/invader-fire-block-mask.png-4449b04d176bb6c09a5c955e48336a1b.image" ]
+
+[params]
+

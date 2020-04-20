@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mothership_bonus.wav-6b88e381a8a581dcd9063ff6e2ed2b50.sample"
+
+[deps]
+
+source_file="res://sounds/mothership_bonus.wav"
+dest_files=[ "res://.import/mothership_bonus.wav-6b88e381a8a581dcd9063ff6e2ed2b50.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

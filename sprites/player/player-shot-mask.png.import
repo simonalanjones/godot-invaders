@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/player-shot-mask.png-34945e040426981fa4b76eab68733234.image"
+
+[deps]
+
+source_file="res://sprites/player/player-shot-mask.png"
+dest_files=[ "res://.import/player-shot-mask.png-34945e040426981fa4b76eab68733234.image" ]
+
+[params]
+

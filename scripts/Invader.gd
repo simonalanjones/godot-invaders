@@ -1,0 +1,1 @@
+extends "Invader_script.gd"

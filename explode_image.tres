@@ -1,0 +1,11 @@
+[gd_resource type="Image" format=2]
+
+[resource]
+resource_name = "explode"
+data = {
+"data": PoolByteArray(  ),
+"format": "Lum8",
+"height": 0,
+"mipmaps": false,
+"width": 0
+}
